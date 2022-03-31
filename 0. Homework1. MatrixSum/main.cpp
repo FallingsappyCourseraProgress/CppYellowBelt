@@ -84,7 +84,7 @@ bool operator == (const Matrix& lhs, const Matrix& rhs)
 // * оператор сложения двух объектов класса Matrix
 Matrix operator + (const Matrix& lhs, const Matrix& rhs)
 {
-
+	return Matrix();
 }
 
 
